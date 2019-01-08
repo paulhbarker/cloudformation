@@ -1,2 +1,2 @@
-# cloudformation
+# Cloudformation Templates
 Helpful cloudformation templates.
